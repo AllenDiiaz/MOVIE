@@ -1,0 +1,462 @@
+{
+    "patient001": {
+        "Diagnosis": "CAA_ICH",
+        "Instrument": "SIEMENS",
+        "Amyloid beta": 1
+    },
+    "patient002": {
+        "Diagnosis": "HTN",
+        "Instrument": "GE",
+        "Amyloid beta": 1
+    },
+    "patient003": {
+        "Diagnosis": "HTN",
+        "Instrument": "GE",
+        "Amyloid beta": 0
+    },
+    "patient004": {
+        "Diagnosis": "AD",
+        "Instrument": "GE",
+        "Amyloid beta": 1
+    },
+    "patient005": {
+        "Diagnosis": "CAA_ICH",
+        "Instrument": "GE",
+        "Amyloid beta": 1
+    },
+    "patient006": {
+        "Diagnosis": "CAA_ICH",
+        "Instrument": "GE",
+        "Amyloid beta": 1
+    },
+    "patient007": {
+        "Diagnosis": "HTN",
+        "Instrument": "SIEMENS",
+        "Amyloid beta": 1
+    },
+    "patient008": {
+        "Diagnosis": "HTN",
+        "Instrument": "GE",
+        "Amyloid beta": 0
+    },
+    "patient009": {
+        "Diagnosis": "CAA_CI",
+        "Instrument": "SIEMENS",
+        "Amyloid beta": 1
+    },
+    "patient010": {
+        "Diagnosis": "AD",
+        "Instrument": "SIEMENS",
+        "Amyloid beta": 0
+    },
+    "patient011": {
+        "Diagnosis": "HTN",
+        "Instrument": "GE",
+        "Amyloid beta": 1
+    },
+    "patient012": {
+        "Diagnosis": "HTN",
+        "Instrument": "GE",
+        "Amyloid beta": 0
+    },
+    "patient013": {
+        "Diagnosis": "AD",
+        "Instrument": "SIEMENS",
+        "Amyloid beta": 1
+    },
+    "patient014": {
+        "Diagnosis": "CAA_ICH",
+        "Instrument": "GE",
+        "Amyloid beta": 1
+    },
+    "patient015": {
+        "Diagnosis": "CAA_ICH",
+        "Instrument": "GE",
+        "Amyloid beta": 1
+    },
+    "patient016": {
+        "Diagnosis": "CAA_ICH",
+        "Instrument": "GE",
+        "Amyloid beta": 1
+    },
+    "patient017": {
+        "Diagnosis": "CAA_ICH",
+        "Instrument": "GE",
+        "Amyloid beta": 1
+    },
+    "patient018": {
+        "Diagnosis": "CAA_CI",
+        "Instrument": "SIEMENS",
+        "Amyloid beta": 1
+    },
+    "patient019": {
+        "Diagnosis": "CAA_CI",
+        "Instrument": "SIEMENS",
+        "Amyloid beta": 1
+    },
+    "patient020": {
+        "Diagnosis": "AD",
+        "Instrument": "GE",
+        "Amyloid beta": 1
+    },
+    "patient021": {
+        "Diagnosis": "HTN",
+        "Instrument": "GE",
+        "Amyloid beta": 0
+    },
+    "patient022": {
+        "Diagnosis": "CAA",
+        "Instrument": "SIEMENS",
+        "Amyloid beta": 0
+    },
+    "patient023": {
+        "Diagnosis": "CAA",
+        "Instrument": "GE",
+        "Amyloid beta": 0
+    },
+    "patient024": {
+        "Diagnosis": "HTN",
+        "Instrument": "GE",
+        "Amyloid beta": 0
+    },
+    "patient025": {
+        "Diagnosis": "CAA_CI",
+        "Instrument": "GE",
+        "Amyloid beta": 1
+    },
+    "patient026": {
+        "Diagnosis": "HTN",
+        "Instrument": "GE",
+        "Amyloid beta": 0
+    },
+    "patient027": {
+        "Diagnosis": "CAA_ICH",
+        "Instrument": "GE",
+        "Amyloid beta": 1
+    },
+    "patient028": {
+        "Diagnosis": "AD",
+        "Instrument": "SIEMENS",
+        "Amyloid beta": 1
+    },
+    "patient029": {
+        "Diagnosis": "HTN",
+        "Instrument": "GE",
+        "Amyloid beta": 0
+    },
+    "patient030": {
+        "Diagnosis": "HTN",
+        "Instrument": "GE",
+        "Amyloid beta": 0
+    },
+    "patient031": {
+        "Diagnosis": "AD",
+        "Instrument": "GE",
+        "Amyloid beta": 1
+    },
+    "patient032": {
+        "Diagnosis": "HTN",
+        "Instrument": "GE",
+        "Amyloid beta": 0
+    },
+    "patient033": {
+        "Diagnosis": "HTN",
+        "Instrument": "GE",
+        "Amyloid beta": 0
+    },
+    "patient034": {
+        "Diagnosis": "HTN",
+        "Instrument": "GE",
+        "Amyloid beta": 1
+    },
+    "patient035": {
+        "Diagnosis": "HTN",
+        "Instrument": "GE",
+        "Amyloid beta": 0
+    },
+    "patient036": {
+        "Diagnosis": "HTN",
+        "Instrument": "GE",
+        "Amyloid beta": 0
+    },
+    "patient037": {
+        "Diagnosis": "HTN",
+        "Instrument": "GE",
+        "Amyloid beta": 0
+    },
+    "patient038": {
+        "Diagnosis": "CAA_ICH",
+        "Instrument": "SIEMENS",
+        "Amyloid beta": 1
+    },
+    "patient039": {
+        "Diagnosis": "HTN",
+        "Instrument": "GE",
+        "Amyloid beta": 0
+    },
+    "patient040": {
+        "Diagnosis": "CAA_ICH",
+        "Instrument": "SIEMENS",
+        "Amyloid beta": 1
+    },
+    "patient041": {
+        "Diagnosis": "CAA_ICH",
+        "Instrument": "GE",
+        "Amyloid beta": 1
+    },
+    "patient042": {
+        "Diagnosis": "CAA_ICH",
+        "Instrument": "GE",
+        "Amyloid beta": 1
+    },
+    "patient043": {
+        "Diagnosis": "CAA_ICH",
+        "Instrument": "SIEMENS",
+        "Amyloid beta": 1
+    },
+    "patient044": {
+        "Diagnosis": "CAA_CI",
+        "Instrument": "GE",
+        "Amyloid beta": 1
+    },
+    "patient045": {
+        "Diagnosis": "HTN",
+        "Instrument": "GE",
+        "Amyloid beta": 0
+    },
+    "patient046": {
+        "Diagnosis": "HTN",
+        "Instrument": "GE",
+        "Amyloid beta": 1
+    },
+    "patient047": {
+        "Diagnosis": "AD",
+        "Instrument": "SIEMENS",
+        "Amyloid beta": 1
+    },
+    "patient048": {
+        "Diagnosis": "AD",
+        "Instrument": "SIEMENS",
+        "Amyloid beta": 1
+    },
+    "patient049": {
+        "Diagnosis": "AD",
+        "Instrument": "SIEMENS",
+        "Amyloid beta": 1
+    },
+    "patient050": {
+        "Diagnosis": "AD",
+        "Instrument": "SIEMENS",
+        "Amyloid beta": 1
+    },
+    "patient051": {
+        "Diagnosis": "AD",
+        "Instrument": "SIEMENS",
+        "Amyloid beta": 0
+    },
+    "patient052": {
+        "Diagnosis": "AD",
+        "Instrument": "GE",
+        "Amyloid beta": 1
+    },
+    "patient053": {
+        "Diagnosis": "CAA_CI",
+        "Instrument": "SIEMENS",
+        "Amyloid beta": -1
+    },
+    "patient054": {
+        "Diagnosis": "AD",
+        "Instrument": "SIEMENS",
+        "Amyloid beta": 1
+    },
+    "patient055": {
+        "Diagnosis": "AD",
+        "Instrument": "GE",
+        "Amyloid beta": 1
+    },
+    "patient056": {
+        "Diagnosis": "AD",
+        "Instrument": "SIEMENS",
+        "Amyloid beta": 1
+    },
+    "patient057": {
+        "Diagnosis": "HTN",
+        "Instrument": "GE",
+        "Amyloid beta": 0
+    },
+    "patient058": {
+        "Diagnosis": "CAA",
+        "Instrument": "GE",
+        "Amyloid beta": 0
+    },
+    "patient059": {
+        "Diagnosis": "AD",
+        "Instrument": "GE",
+        "Amyloid beta": 0
+    },
+    "patient060": {
+        "Diagnosis": "AD",
+        "Instrument": "SIEMENS",
+        "Amyloid beta": 0
+    },
+    "patient061": {
+        "Diagnosis": "CAA_CI",
+        "Instrument": "SIEMENS",
+        "Amyloid beta": 1
+    },
+    "patient062": {
+        "Diagnosis": "AD",
+        "Instrument": "GE",
+        "Amyloid beta": 1
+    },
+    "patient063": {
+        "Diagnosis": "AD",
+        "Instrument": "GE",
+        "Amyloid beta": 1
+    },
+    "patient064": {
+        "Diagnosis": "AD",
+        "Instrument": "GE",
+        "Amyloid beta": 1
+    },
+    "patient065": {
+        "Diagnosis": "HTN",
+        "Instrument": "GE",
+        "Amyloid beta": 0
+    },
+    "patient066": {
+        "Diagnosis": "AD",
+        "Instrument": "GE",
+        "Amyloid beta": 1
+    },
+    "patient067": {
+        "Diagnosis": "AD",
+        "Instrument": "GE",
+        "Amyloid beta": 1
+    },
+    "patient068": {
+        "Diagnosis": "CAA_CI",
+        "Instrument": "GE",
+        "Amyloid beta": 1
+    },
+    "patient069": {
+        "Diagnosis": "CAA_ICH",
+        "Instrument": "GE",
+        "Amyloid beta": 1
+    },
+    "patient070": {
+        "Diagnosis": "AD",
+        "Instrument": "GE",
+        "Amyloid beta": 1
+    },
+    "patient071": {
+        "Diagnosis": "AD",
+        "Instrument": "GE",
+        "Amyloid beta": 1
+    },
+    "patient072": {
+        "Diagnosis": "CAA_CI",
+        "Instrument": "GE",
+        "Amyloid beta": 0
+    },
+    "patient073": {
+        "Diagnosis": "HTN",
+        "Instrument": "GE",
+        "Amyloid beta": 0
+    },
+    "patient074": {
+        "Diagnosis": "CAA_ICH",
+        "Instrument": "GE",
+        "Amyloid beta": 1
+    },
+    "patient075": {
+        "Diagnosis": "AD",
+        "Instrument": "SIEMENS",
+        "Amyloid beta": 1
+    },
+    "patient076": {
+        "Diagnosis": "AD",
+        "Instrument": "SIEMENS",
+        "Amyloid beta": 1
+    },
+    "patient077": {
+        "Diagnosis": "CAA_ICH",
+        "Instrument": "GE",
+        "Amyloid beta": 1
+    },
+    "patient078": {
+        "Diagnosis": "CAA_CI",
+        "Instrument": "SIEMENS",
+        "Amyloid beta": 1
+    },
+    "patient079": {
+        "Diagnosis": "CAA_CI",
+        "Instrument": "GE",
+        "Amyloid beta": 0
+    },
+    "patient080": {
+        "Diagnosis": "HTN",
+        "Instrument": "SIEMENS",
+        "Amyloid beta": 1
+    },
+    "patient081": {
+        "Diagnosis": "AD",
+        "Instrument": "GE",
+        "Amyloid beta": 1
+    },
+    "patient082": {
+        "Diagnosis": "CAA_CI",
+        "Instrument": "SIEMENS",
+        "Amyloid beta": 1
+    },
+    "patient083": {
+        "Diagnosis": "AD",
+        "Instrument": "GE",
+        "Amyloid beta": 0
+    },
+    "patient084": {
+        "Diagnosis": "CAA_ICH",
+        "Instrument": "GE",
+        "Amyloid beta": 0
+    },
+    "patient085": {
+        "Diagnosis": "AD",
+        "Instrument": "SIEMENS",
+        "Amyloid beta": 1
+    },
+    "patient086": {
+        "Diagnosis": "AD",
+        "Instrument": "GE",
+        "Amyloid beta": 1
+    },
+    "patient087": {
+        "Diagnosis": "AD",
+        "Instrument": "SIEMENS",
+        "Amyloid beta": 0
+    },
+    "patient088": {
+        "Diagnosis": "HTN",
+        "Instrument": "SIEMENS",
+        "Amyloid beta": 0
+    },
+    "patient089": {
+        "Diagnosis": "CAA_ICH",
+        "Instrument": "SIEMENS",
+        "Amyloid beta": 1
+    },
+    "patient090": {
+        "Diagnosis": "AD",
+        "Instrument": "SIEMENS",
+        "Amyloid beta": 1
+    },
+    "patient091": {
+        "Diagnosis": "CAA_CI",
+        "Instrument": "SIEMENS",
+        "Amyloid beta": 0
+    },
+    "patient092": {
+        "Diagnosis": "CAA_CI",
+        "Instrument": "GE",
+        "Amyloid beta": 1
+    }
+}

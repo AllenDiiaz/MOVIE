@@ -1,0 +1,17 @@
+# 訓練輸出
+runs/
+*.pth
+*.csv
+*.npy
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# 環境
+.conda/
+*.log

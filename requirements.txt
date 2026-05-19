@@ -1,0 +1,34 @@
+# Deep Learning
+torch==2.6.0+cu118
+torchvision>=0.15.0
+
+# SDE / ODE solvers
+torchsde==0.2.6
+torchdiffeq==0.2.5
+
+# Mamba (State Space Model)
+mamba-ssm==2.2.4
+
+# nnUNet backbone
+nnunetv2==2.6.0
+dynamic-network-architectures==0.3.1
+
+# Image quality metrics
+lpips==0.1.4
+piq==0.8.0
+torchmetrics==1.6.1
+
+# Data processing
+numpy>=1.24.0
+scipy>=1.10.0
+opencv-python>=4.7.0
+pandas>=2.0.0
+
+# Visualization & logging
+matplotlib>=3.7.0
+seaborn>=0.12.0
+colorama>=0.4.6
+tqdm>=4.65.0
+
+# Utilities
+scikit-learn>=1.3.0
