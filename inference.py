@@ -150,20 +150,19 @@ if __name__ == "__main__":
 
                 for i, sid in enumerate(subs):
                     p = preds[i]
-                    e = early[i]
-                    lp = lpips_fn(
-                        p.unsqueeze(0).expand(1,3,*p.shape[-2:]),
-                        e.unsqueeze(0).expand(1,3,*e.shape[-2:])
-                    ).item()
 
                     if have_gt:
                         gt_raw = batch["ground_truth"]
                         gt     = squeeze_early(gt_raw).to(DEVICE)[i]
-                        ps = psnr_fn(p.unsqueeze(0), gt.unsqueeze(0), data_range=1.).item()
-                        ss = ssim_fn(p.unsqueeze(0), gt.unsqueeze(0), data_range=1.).item()
+                        ps  = psnr_fn(p.unsqueeze(0), gt.unsqueeze(0), data_range=1.).item()
+                        ss  = ssim_fn(p.unsqueeze(0), gt.unsqueeze(0), data_range=1.).item()
                         mse = F.mse_loss(p, gt, reduction='mean').item()
+                        lp  = lpips_fn(
+                            p.unsqueeze(0).expand(1,3,*p.shape[-2:]),
+                            gt.unsqueeze(0).expand(1,3,*gt.shape[-2:])
+                        ).item()
                     else:
-                        ps = ss = mse = float("nan")
+                        ps = ss = mse = lp = float("nan")
 
                     subject_metrics.setdefault(sid, {
                         "psnr": [], "ssim": [], "lpips": [], "mse": []
