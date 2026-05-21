@@ -11,11 +11,7 @@ Official implementation of the paper:
 
 MOVIE synthesizes late-frame [¹¹C]-PiB PET images directly from early-frame acquisitions, reducing patient scan time while maintaining diagnostic quality. The model uses a **LKMUNet** backbone (Mamba-based U-Net) combined with either a **Stochastic Differential Equation (SDE)** or **Ordinary Differential Equation (ODE)** module conditioned via **FiLM** (Feature-wise Linear Modulation) on intermediate PET frames.
 
-```
-Early Frame  ──►  LKMUNet Encoder  ──►  SDE/ODE Block (FiLM)  ──►  Decoder  ──►  Synthesized Late Frame
-                                              ▲
-                                     Intermediate Frames
-```
+![MOVIE Overview](figures/movie_overview.svg)
 
 ---
 
